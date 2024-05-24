@@ -20,6 +20,7 @@ class IntroPage extends StatelessWidget {
                 child: Image.asset(
                   'lib/images/logo.png',
                   height: 240,
+                  width: 200,
                 ),
               ),
               const SizedBox(
